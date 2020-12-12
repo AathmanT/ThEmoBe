@@ -9,3 +9,4 @@ torchvision
 keras
 tensorflow
 celery[redis]
+gevent
